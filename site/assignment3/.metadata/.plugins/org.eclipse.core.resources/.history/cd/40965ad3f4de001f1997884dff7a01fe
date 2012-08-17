@@ -1,0 +1,114 @@
+/**
+ * 
+ */
+
+/**
+ * @author Zaven Mnatzakanian
+ *
+ */
+public class Item {
+	private static final String ID_PREFIX = "DS";
+	private static int itemIdCounter = 100;
+	
+	private int itemId;
+	private String desc;
+	private int quantity;
+	private double price;
+	private double totalSales;
+	
+	/**
+	 * @param desc
+	 * @param quantity
+	 * @param price
+	 */
+	public Item(String desc, int quantity, double price) {
+		super();
+		this.itemId = itemIdCounter++;
+		this.desc = desc;
+		this.quantity = quantity;
+		this.price = price;
+	}
+
+	/**
+	 * @return the itemId
+	 */
+	public String getItemId() {
+		return ID_PREFIX + itemId;
+	}
+	
+	/**
+	 * @return the desc
+	 */
+	public String getDesc() {
+		return desc;
+	}
+	/**
+	 * @param desc the desc to set
+	 */
+	public void setDesc(String desc) {
+		this.desc = desc;
+	}
+	/**
+	 * @return the quantity
+	 */
+	public int getQuantity() {
+		return quantity;
+	}
+	/**
+	 * @param quantity the quantity to add
+	 */
+	public int addQuantity(int quantity) {
+		this.quantity = quantity;
+		return this.quantity;
+	}
+	/**
+	 * @return the price
+	 */
+	public double getPrice() {
+		return price;
+	}
+	/**
+	 * @param price the price to set
+	 */
+	public void setPrice(double price) {
+		this.price = price;
+	}
+	/**
+	 * @return the totalSales
+	 */
+	public double getTotalSales() {
+		return totalSales;
+	}
+	/**
+	 * @param totalSales the totalSales to set
+	 */
+	public void setTotalSales(double totalSales) {
+		this.totalSales = totalSales;
+	}
+	
+	public void sellItem(){
+		sellItem(1);
+	}
+	
+	/**
+	 * @param numSold the number of items sold
+	 */
+	public void sellItem(int numSold){
+		if(numSold>quantity)
+			//TODO: Throw exception;
+			return;
+		else {
+			quantity -= numSold;
+			totalSales += numSold * price; 
+		}
+	}
+	
+	
+	/**
+	 * @param percent the percent to increase or decrease the price by.
+	 */
+	public void adjustPrice(double percent){
+		price *= 1+percent;
+	}
+	
+}

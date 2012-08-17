@@ -1,0 +1,23 @@
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.Graphics;
+
+/**
+ * 
+ */
+
+/**
+ * @author Zaven
+ *
+ */
+public class PieChart extends Applet {
+	public void paint(Graphics g){
+		int inset;
+		int rectWidth, rectHeight;
+		g.setColor(Color.pink);
+		g.fillOval(0, 0, 150, 150);
+		g.fillRect(0,0,300,160);
+		g.setColor(Color.green);
+		
+	}
+}

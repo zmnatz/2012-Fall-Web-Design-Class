@@ -1,0 +1,69 @@
+import java.applet.Applet;
+import java.awt.Color;
+import java.awt.Graphics;
+
+/**
+ * 
+ */
+
+/**
+ * @author Zaven
+ *
+ */
+public class PieChart extends Applet {
+	public void paint(Graphics g){
+		 public void paint(Graphics g) {
+			   
+			   int Sci, Soc, Hum, Total;	// # of students in each discipline and the total
+			   
+			   float PercSoc, PercSci, PercHum;	// The percentages
+			   
+			   int x = 150, y = 50, w = 100, h = 100;	// defines the size of the pie
+			   int startAngle, degrees;	// will be used to draw a pie slice
+			   
+			   // Set the # of students in each disipline
+			   Sci = 4;
+			   Soc = 13;
+			   Hum = 7;
+			   
+			   // Compute percentages
+			   Total = Sci + Soc + Hum;
+			   
+			   // %Sci
+			   PercSci = (Sci * 100.0f) / Total;
+			   
+			   // %Soc
+			   PercSoc = (Soc * 100.0f) / Total;
+			   
+			   // %Hum
+			   PercHum = (Hum * 100.0f) / Total;
+			   
+			   // Display/output results
+			   System.out.println("% Sci = " + PercSci);
+			   System.out.println("% Soc = " + PercSoc);
+			   System.out.println("% Hum = " + PercHum);
+			   
+			   // Display the Pie Chart
+			   
+			   // Draw the Pie for Sci
+			   startAngle = 0;
+			   degrees = (int)(PercSci * 360 / 100);
+			   
+			   g.setColor(Color.green);
+			   g.fillArc(x, y, w, h, startAngle, degrees);
+			   
+			   // Draw the Pie for Soc
+			   startAngle = degrees;
+			   degrees = (int)(PercSoc * 360 / 100);
+			   
+			   g.setColor(Color.red);
+			   g.fillArc(x, y, w, h, startAngle, degrees);
+			   
+			   // Draw the Pie for Hum
+			   startAngle = startAngle + degrees;
+			   degrees = (int)(PercHum * 360 / 100);
+			   
+			   g.setColor(Color.yellow);
+			   g.fillArc(x+5, y+5, w, h, startAngle, degrees); // offset this slice a little
+	}
+}

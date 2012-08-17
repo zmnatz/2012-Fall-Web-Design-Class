@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;items&apos; in &apos;OrderForm.init()&apos; to &apos;itemIds&apos;&#x0D;&#x0A;- Original project: &apos;assignment6&apos;&#x0D;&#x0A;- Original element: &apos;OrderForm.init().items&apos;&#x0D;&#x0A;- Renamed element: &apos;items&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;items&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{OrderForm.java[OrderForm~init@items!593!620!600!604!QChoice;" name="itemIds" references="true" stamp="1290870953355" version="1.0"/>
+</session>

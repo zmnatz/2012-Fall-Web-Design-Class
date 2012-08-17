@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+
+/**
+ * @author Zaven Mnatzakanian
+ *
+ */
+public class StoreTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Item hammer = new Item("Hammer",10,1.99);
+	}
+
+}

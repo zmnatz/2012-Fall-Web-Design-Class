@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+
+/**
+ * @author Zaven Mnatzakanian
+ *
+ */
+public class StoreTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Item hammer = new Item("Hammer",10,1.99);
+		Item nails = new Item("Nails",15,2.79);
+		Item fooBar = new Item("Foo Bar",12,6.59);
+		
+		System.out.println(hammer);
+		System.out.println(nails);
+		System.out.println(fooBar);
+		
+		hammer.sell(3);
+		nails.sell(15);
+		fooBar.adjustPrice(.10);
+		
+		System.out.println(hammer);
+		System.out.println(nails);
+		System.out.println(fooBar);
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+import java.applet.Applet;
+
+/**
+ * 
+ */
+
+/**
+ * @author Zaven
+ *
+ */
+public class PieChart extends Applet {
+
+}

@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1287876004538
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1287876004539
+os,sysinfo,,,"win32",1287876004543
+arch,sysinfo,,,"x86_64",1287876004543
+ws,sysinfo,,,"win32",1287876004543
+locale,sysinfo,,,"en_US",1287876004543
+processors,sysinfo,,,"4",1287876004544
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1287876004544
+java.runtime.version,sysinfo,,,"1.6.0_21-b06",1287876004544
+java.specification.name,sysinfo,,,"Java Platform API Specification",1287876004544
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1287876004544
+java.specification.version,sysinfo,,,"1.6",1287876004544
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1287876004544
+java.version,sysinfo,,,"1.6.0_21",1287876004544
+java.vm.info,sysinfo,,,"mixed mode",1287876004544
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1287876004544
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1287876004544
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1287876004544
+java.vm.specification.version,sysinfo,,,"1.0",1287876004544
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1287876004544
+java.vm.version,sysinfo,,,"17.0-b16",1287876004544
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1287876004572
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1287876004577
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876028557
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876037938
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.perspectives.showPerspective",1287876037953
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.perspectives.showPerspective",1287876037953
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876042773
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876088440
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876094038
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876104911
+executed,command,org.eclipse.ui,3.6.1.M20100826-1330,"org.eclipse.ui.newWizard",1287876104919
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876107664
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876112224
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20100513,"org.eclipse.equinox.p2.ui.sdk",1287876113580
+started,bundle,org.eclipse.equinox.p2.ui,2.0.0.v20100518,"org.eclipse.equinox.p2.ui",1287876113585
+started,bundle,org.eclipse.ecf.filetransfer,4.0.0.v20100529-0735,"org.eclipse.ecf.filetransfer",1287876113624
+started,bundle,org.eclipse.ecf.identity,3.1.0.v20100529-0735,"org.eclipse.ecf.identity",1287876113648
+started,bundle,org.eclipse.ecf,3.1.0.v20100529-0735,"org.eclipse.ecf",1287876113679
+started,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,4.0.0.v20100529-0735,"org.eclipse.ecf.provider.filetransfer.httpclient",1287876113695
+started,bundle,org.eclipse.ecf.provider.filetransfer,3.1.0.v20100529-0735,"org.eclipse.ecf.provider.filetransfer",1287876113699
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876113859
+started,bundle,org.eclipse.equinox.p2.updatesite,1.0.201.R36x_v20100823,"org.eclipse.equinox.p2.updatesite",1287876125557
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.100.v20100503,"org.eclipse.equinox.p2.garbagecollector",1287876145366
+started,bundle,org.eclipse.equinox.frameworkadmin,2.0.0.v20100503,"org.eclipse.equinox.frameworkadmin",1287876147420
+started,bundle,org.eclipse.equinox.simpleconfigurator.manipulator,2.0.0.v20100503,"org.eclipse.equinox.simpleconfigurator.manipulator",1287876147427
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876153064
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20100513,"org.eclipse.equinox.p2.ui.sdk.install",1287876153074
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876153365
+started,bundle,org.eclipse.equinox.frameworkadmin.equinox,1.0.200.v20100505,"org.eclipse.equinox.frameworkadmin.equinox",1287876209453
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876223788
+installed,bundle,org.eclipse.emf.ant,2.6.1.v20100905-1631,"org.eclipse.emf.ant",1287876223832
+installed,bundle,org.eclipse.emf.codegen,2.6.0.v20100914-1218,"org.eclipse.emf.codegen",1287876223893
+installed,bundle,org.eclipse.emf.codegen.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.codegen.ecore",1287876223912
+installed,bundle,org.eclipse.emf.codegen.ecore.ui,2.6.0.v20100914-1218,"org.eclipse.emf.codegen.ecore.ui",1287876223917
+installed,bundle,org.eclipse.emf.converter,2.5.0.v20100914-1218,"org.eclipse.emf.converter",1287876223920
+installed,bundle,org.eclipse.emf.ecore.change.edit,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.change.edit",1287876223922
+installed,bundle,org.eclipse.emf.ecore.editor,2.6.0.v20100914-1218,"org.eclipse.emf.ecore.editor",1287876223926
+installed,bundle,org.eclipse.emf.exporter,2.6.0.v20100521-1846,"org.eclipse.emf.exporter",1287876223937
+installed,bundle,org.eclipse.emf.importer,2.6.0.v20100521-1846,"org.eclipse.emf.importer",1287876223938
+installed,bundle,org.eclipse.emf.mapping.ecore2xml,2.5.0.v20100521-1847,"org.eclipse.emf.mapping.ecore2xml",1287876223939
+installed,bundle,org.eclipse.uml2,3.0.0.v201005031530,"org.eclipse.uml2",1287876223944
+installed,bundle,org.eclipse.uml2.codegen.ecore,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore",1287876223948
+resolved,bundle,org.eclipse.emf.codegen,2.6.0.v20100914-1218,"org.eclipse.emf.codegen",1287876223956
+installed,bundle,org.eclipse.uml2.codegen.ecore.ui,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore.ui",1287876223958
+installed,bundle,org.eclipse.uml2.common,1.5.0.v201005031530,"org.eclipse.uml2.common",1287876223974
+installed,bundle,org.eclipse.uml2.common.edit,1.5.0.v201005031530,"org.eclipse.uml2.common.edit",1287876223979
+resolved,bundle,org.eclipse.emf.ant,2.6.1.v20100905-1631,"org.eclipse.emf.ant",1287876223980
+installed,bundle,org.eclipse.uml2.doc,3.1.0.v201005031530,"org.eclipse.uml2.doc",1287876223990
+installed,bundle,org.eclipse.uml2.examples,3.0.0.v201005031530,"org.eclipse.uml2.examples",1287876224000
+resolved,bundle,org.eclipse.uml2.common,1.5.0.v201005031530,"org.eclipse.uml2.common",1287876224000
+resolved,bundle,org.eclipse.uml2.common.edit,1.5.0.v201005031530,"org.eclipse.uml2.common.edit",1287876224000
+resolved,bundle,org.eclipse.uml2,3.0.0.v201005031530,"org.eclipse.uml2",1287876224001
+installed,bundle,org.eclipse.uml2.examples.uml.ui,3.0.1.v201008191505,"org.eclipse.uml2.examples.uml.ui",1287876224020
+resolved,bundle,org.eclipse.emf.mapping.ecore2xml,2.5.0.v20100521-1847,"org.eclipse.emf.mapping.ecore2xml",1287876224023
+resolved,bundle,org.eclipse.emf.ecore.editor,2.6.0.v20100914-1218,"org.eclipse.emf.ecore.editor",1287876224023
+installed,bundle,org.eclipse.uml2.uml,3.1.1.v201008191505,"org.eclipse.uml2.uml",1287876224025
+resolved,bundle,org.eclipse.emf.ecore.change.edit,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.change.edit",1287876224025
+installed,bundle,org.eclipse.uml2.uml.ecore.exporter,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.exporter",1287876224027
+installed,bundle,org.eclipse.uml2.uml.ecore.importer,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.importer",1287876224028
+resolved,bundle,org.eclipse.emf.codegen.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.codegen.ecore",1287876224028
+installed,bundle,org.eclipse.uml2.uml.edit,3.1.0.v201005031530,"org.eclipse.uml2.uml.edit",1287876224036
+resolved,bundle,org.eclipse.uml2.codegen.ecore,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore",1287876224040
+installed,bundle,org.eclipse.uml2.uml.editor,3.1.0.v201005031530,"org.eclipse.uml2.uml.editor",1287876224041
+installed,bundle,org.eclipse.uml2.uml.resources,3.1.1.v201008191505,"org.eclipse.uml2.uml.resources",1287876224046
+resolved,bundle,org.eclipse.emf.codegen.ecore.ui,2.6.0.v20100914-1218,"org.eclipse.emf.codegen.ecore.ui",1287876224046
+resolved,bundle,org.eclipse.uml2.codegen.ecore.ui,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore.ui",1287876224047
+resolved,bundle,org.eclipse.emf.converter,2.5.0.v20100914-1218,"org.eclipse.emf.converter",1287876224047
+resolved,bundle,org.eclipse.emf.importer,2.6.0.v20100521-1846,"org.eclipse.emf.importer",1287876224056
+resolved,bundle,org.eclipse.emf.exporter,2.6.0.v20100521-1846,"org.eclipse.emf.exporter",1287876224056
+resolved,bundle,org.eclipse.uml2.uml,3.1.1.v201008191505,"org.eclipse.uml2.uml",1287876224070
+resolved,bundle,org.eclipse.uml2.uml.resources,3.1.1.v201008191505,"org.eclipse.uml2.uml.resources",1287876224075
+resolved,bundle,org.eclipse.uml2.uml.edit,3.1.0.v201005031530,"org.eclipse.uml2.uml.edit",1287876224082
+resolved,bundle,org.eclipse.uml2.uml.editor,3.1.0.v201005031530,"org.eclipse.uml2.uml.editor",1287876224085
+resolved,bundle,org.eclipse.uml2.uml.ecore.importer,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.importer",1287876224089
+resolved,bundle,org.eclipse.uml2.uml.ecore.exporter,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.exporter",1287876224091
+resolved,bundle,org.eclipse.uml2.examples.uml.ui,3.0.1.v201008191505,"org.eclipse.uml2.examples.uml.ui",1287876224096
+resolved,bundle,org.eclipse.uml2.examples,3.0.0.v201005031530,"org.eclipse.uml2.examples",1287876224096
+resolved,bundle,org.eclipse.uml2.doc,3.1.0.v201005031530,"org.eclipse.uml2.doc",1287876224100
+stopped,bundle,org.eclipse.uml2.uml.ecore.importer,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.importer",1287876224137
+stopped,bundle,org.eclipse.emf.ant,2.6.1.v20100905-1631,"org.eclipse.emf.ant",1287876224137
+stopped,bundle,org.eclipse.uml2.uml.ecore.exporter,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.exporter",1287876224137
+stopped,bundle,org.eclipse.emf.exporter,2.6.0.v20100521-1846,"org.eclipse.emf.exporter",1287876224139
+stopped,bundle,org.eclipse.emf.importer,2.6.0.v20100521-1846,"org.eclipse.emf.importer",1287876224139
+stopped,bundle,org.eclipse.emf.converter,2.5.0.v20100914-1218,"org.eclipse.emf.converter",1287876224139
+stopped,bundle,org.eclipse.uml2.codegen.ecore.ui,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore.ui",1287876224139
+stopped,bundle,org.eclipse.emf.codegen.ecore.ui,2.6.0.v20100914-1218,"org.eclipse.emf.codegen.ecore.ui",1287876224139
+stopped,bundle,org.eclipse.uml2.codegen.ecore,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore",1287876224139
+stopped,bundle,org.eclipse.emf.codegen.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.codegen.ecore",1287876224139
+stopped,bundle,org.eclipse.emf.codegen,2.6.0.v20100914-1218,"org.eclipse.emf.codegen",1287876224139
+stopped,bundle,org.eclipse.emf.ecore.change.edit,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.change.edit",1287876224139
+stopped,bundle,org.eclipse.uml2.examples.uml.ui,3.0.1.v201008191505,"org.eclipse.uml2.examples.uml.ui",1287876224139
+stopped,bundle,org.eclipse.emf.ecore.editor,2.6.0.v20100914-1218,"org.eclipse.emf.ecore.editor",1287876224139
+stopped,bundle,org.eclipse.uml2.uml.editor,3.1.0.v201005031530,"org.eclipse.uml2.uml.editor",1287876224139
+stopped,bundle,org.eclipse.uml2.uml.edit,3.1.0.v201005031530,"org.eclipse.uml2.uml.edit",1287876224139
+stopped,bundle,org.eclipse.uml2.uml,3.1.1.v201008191505,"org.eclipse.uml2.uml",1287876224139
+stopped,bundle,org.eclipse.emf.mapping.ecore2xml,2.5.0.v20100521-1847,"org.eclipse.emf.mapping.ecore2xml",1287876224139
+stopped,bundle,org.eclipse.uml2.common.edit,1.5.0.v201005031530,"org.eclipse.uml2.common.edit",1287876224142
+stopped,bundle,org.eclipse.uml2.common,1.5.0.v201005031530,"org.eclipse.uml2.common",1287876224142
+stopped,bundle,org.eclipse.uml2.doc,3.1.0.v201005031530,"org.eclipse.uml2.doc",1287876224142
+unresolved,bundle,org.eclipse.uml2.uml.ecore.importer,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.importer",1287876224143
+unresolved,bundle,org.eclipse.emf.ant,2.6.1.v20100905-1631,"org.eclipse.emf.ant",1287876224143
+unresolved,bundle,org.eclipse.uml2.uml.ecore.exporter,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.exporter",1287876224143
+unresolved,bundle,org.eclipse.emf.exporter,2.6.0.v20100521-1846,"org.eclipse.emf.exporter",1287876224146
+unresolved,bundle,org.eclipse.emf.importer,2.6.0.v20100521-1846,"org.eclipse.emf.importer",1287876224150
+unresolved,bundle,org.eclipse.emf.converter,2.5.0.v20100914-1218,"org.eclipse.emf.converter",1287876224150
+unresolved,bundle,org.eclipse.uml2.codegen.ecore.ui,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore.ui",1287876224151
+unresolved,bundle,org.eclipse.emf.codegen.ecore.ui,2.6.0.v20100914-1218,"org.eclipse.emf.codegen.ecore.ui",1287876224157
+unresolved,bundle,org.eclipse.uml2.codegen.ecore,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore",1287876224158
+unresolved,bundle,org.eclipse.emf.codegen.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.codegen.ecore",1287876224162
+unresolved,bundle,org.eclipse.emf.codegen,2.6.0.v20100914-1218,"org.eclipse.emf.codegen",1287876224165
+unresolved,bundle,org.eclipse.emf.ecore.change.edit,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.change.edit",1287876224165
+unresolved,bundle,org.eclipse.uml2.examples.uml.ui,3.0.1.v201008191505,"org.eclipse.uml2.examples.uml.ui",1287876224167
+unresolved,bundle,org.eclipse.emf.ecore.editor,2.6.0.v20100914-1218,"org.eclipse.emf.ecore.editor",1287876224176
+unresolved,bundle,org.eclipse.uml2.uml.editor,3.1.0.v201005031530,"org.eclipse.uml2.uml.editor",1287876224180
+unresolved,bundle,org.eclipse.uml2.uml.edit,3.1.0.v201005031530,"org.eclipse.uml2.uml.edit",1287876224182
+unresolved,bundle,org.eclipse.uml2.uml.resources,3.1.1.v201008191505,"org.eclipse.uml2.uml.resources",1287876224183
+unresolved,bundle,org.eclipse.uml2.uml,3.1.1.v201008191505,"org.eclipse.uml2.uml",1287876224185
+unresolved,bundle,org.eclipse.emf.mapping.ecore2xml,2.5.0.v20100521-1847,"org.eclipse.emf.mapping.ecore2xml",1287876224186
+unresolved,bundle,org.eclipse.uml2,3.0.0.v201005031530,"org.eclipse.uml2",1287876224186
+unresolved,bundle,org.eclipse.uml2.common.edit,1.5.0.v201005031530,"org.eclipse.uml2.common.edit",1287876224186
+unresolved,bundle,org.eclipse.uml2.common,1.5.0.v201005031530,"org.eclipse.uml2.common",1287876224186
+unresolved,bundle,org.eclipse.uml2.doc,3.1.0.v201005031530,"org.eclipse.uml2.doc",1287876224187
+unresolved,bundle,org.eclipse.uml2.examples,3.0.0.v201005031530,"org.eclipse.uml2.examples",1287876224188
+resolved,bundle,org.eclipse.uml2.examples,3.0.0.v201005031530,"org.eclipse.uml2.examples",1287876224411
+resolved,bundle,org.eclipse.uml2.doc,3.1.0.v201005031530,"org.eclipse.uml2.doc",1287876224418
+resolved,bundle,org.eclipse.uml2.common,1.5.0.v201005031530,"org.eclipse.uml2.common",1287876224418
+resolved,bundle,org.eclipse.uml2.common.edit,1.5.0.v201005031530,"org.eclipse.uml2.common.edit",1287876224419
+resolved,bundle,org.eclipse.uml2,3.0.0.v201005031530,"org.eclipse.uml2",1287876224419
+resolved,bundle,org.eclipse.emf.mapping.ecore2xml,2.5.0.v20100521-1847,"org.eclipse.emf.mapping.ecore2xml",1287876224424
+resolved,bundle,org.eclipse.uml2.uml,3.1.1.v201008191505,"org.eclipse.uml2.uml",1287876224429
+resolved,bundle,org.eclipse.uml2.uml.resources,3.1.1.v201008191505,"org.eclipse.uml2.uml.resources",1287876224433
+resolved,bundle,org.eclipse.uml2.uml.edit,3.1.0.v201005031530,"org.eclipse.uml2.uml.edit",1287876224436
+resolved,bundle,org.eclipse.uml2.uml.editor,3.1.0.v201005031530,"org.eclipse.uml2.uml.editor",1287876224441
+resolved,bundle,org.eclipse.emf.ecore.editor,2.6.0.v20100914-1218,"org.eclipse.emf.ecore.editor",1287876224444
+resolved,bundle,org.eclipse.uml2.examples.uml.ui,3.0.1.v201008191505,"org.eclipse.uml2.examples.uml.ui",1287876224447
+resolved,bundle,org.eclipse.emf.ecore.change.edit,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.change.edit",1287876224449
+resolved,bundle,org.eclipse.emf.codegen,2.6.0.v20100914-1218,"org.eclipse.emf.codegen",1287876224451
+resolved,bundle,org.eclipse.emf.codegen.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.codegen.ecore",1287876224454
+resolved,bundle,org.eclipse.uml2.codegen.ecore,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore",1287876224456
+resolved,bundle,org.eclipse.emf.codegen.ecore.ui,2.6.0.v20100914-1218,"org.eclipse.emf.codegen.ecore.ui",1287876224459
+resolved,bundle,org.eclipse.uml2.codegen.ecore.ui,1.6.0.v201005031530,"org.eclipse.uml2.codegen.ecore.ui",1287876224461
+resolved,bundle,org.eclipse.emf.converter,2.5.0.v20100914-1218,"org.eclipse.emf.converter",1287876224461
+resolved,bundle,org.eclipse.emf.importer,2.6.0.v20100521-1846,"org.eclipse.emf.importer",1287876224463
+resolved,bundle,org.eclipse.emf.exporter,2.6.0.v20100521-1846,"org.eclipse.emf.exporter",1287876224466
+resolved,bundle,org.eclipse.uml2.uml.ecore.exporter,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.exporter",1287876224468
+resolved,bundle,org.eclipse.emf.ant,2.6.1.v20100905-1631,"org.eclipse.emf.ant",1287876224470
+resolved,bundle,org.eclipse.uml2.uml.ecore.importer,2.4.0.v201005031530,"org.eclipse.uml2.uml.ecore.importer",1287876224472
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224620
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224623
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224626
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224629
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224632
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224635
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876224638
+error,log,,,"Error notifying registry change listener.",1287876224645
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876224673
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876224740
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876224745
+started,bundle,org.eclipse.compare,3.5.100.I20100526-0800,"org.eclipse.compare",1287876224845
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876225196
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876225200
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225344
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225347
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225350
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225353
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225356
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225359
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225363
+error,log,,,"Error notifying registry change listener.",1287876225432
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876225438
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876225443
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225528
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225531
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225534
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225538
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225541
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225545
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225548
+error,log,,,"Error notifying registry change listener.",1287876225553
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225563
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225566
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225570
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225573
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225576
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225580
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.equinox.registry"".",1287876225583
+error,log,,,"Error notifying registry change listener.",1287876225588
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226081
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226086
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226134
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226138
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226227
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226230
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226330
+error,log,,,"Exception in org.eclipse.ui.internal.registry.UIExtensionTracker$2.doAdd: org.eclipse.core.runtime.InvalidRegistryObjectException: Invalid registry object",1287876226334
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226503
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226508
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226512
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226516
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226519
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226523
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226527
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226531
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226534
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226539
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226543
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226547
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226552
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226556
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226560
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226564
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226568
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226571
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226575
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226578
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226582
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226586
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226589
+error,log,,,"Undefined context while filtering dialog/window contexts",1287876226593
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876226612
+deactivated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876227723
+activated,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876229035
+closed,workbench,org.eclipse.ui.workbench,3.6.1.M20100826-1330,"",1287876229218
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ant",1287876229537
+stopped,bundle,org.eclipse.ant.ui,3.5.0.v20100427,"org.eclipse.ant.ui",1287876229538
+stopped,bundle,org.eclipse.ant.launching,1.0.0.v20100427,"org.eclipse.ant.launching",1287876229539
+stopped,bundle,org.eclipse.compare.win32,1.0.100.I20100505-1245,"org.eclipse.compare.win32",1287876229540
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20100513,"org.eclipse.equinox.p2.ui.sdk",1287876229540
+stopped,bundle,org.eclipse.mylyn.java.tasks,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.java.tasks",1287876229541

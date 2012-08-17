@@ -1,0 +1,80 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.util.ArrayList;
+
+/**
+ * 
+ */
+
+/**
+ * @author Zaven
+ *
+ */
+public class OrderServer{
+	enum commands {
+		LISTALL,
+		SELL,
+		QUIT
+	}
+	
+	private static ArrayList<Item> inventory;
+	
+	public static void main(String[] args){
+		inventory = new ArrayList<Item>();
+		//Initialize values
+		inventory.add(new Item("Hammer",10,1.99));
+		inventory.add(new Item("Nails",15,2.79));
+		inventory.add(new Item("Foo Bar",12,6.59));
+		
+		ServerSocket serverSocket = null;
+		try {
+            serverSocket = new ServerSocket(6100);
+        } catch (IOException e) {
+        	e.printStackTrace();
+            System.err.println("Could not listen on port: 6100.");
+            return;
+        }
+        while(true){
+        	System.out.println("Waiting for a connection");
+        	try {
+	        	Socket connectionSocket = serverSocket.accept();
+	        	BufferedReader input = new BufferedReader(new InputStreamReader(connectionSocket.getInputStream()));
+	        	BufferedWriter output = new BufferedWriter(new OutputStreamWriter(connectionSocket.getOutputStream()));
+	        	String command = input.readLine();
+	        	System.out.println(command);
+	        	if(command.contains("LISTALL")){
+	        		for(Item item : inventory)
+	        			output.write(item.toString()+"\n");
+	        		output.write("DONE\n");
+	        	} else if (command.contains("SELL")) {
+	        		String[] itemInfo = command.split("SELL")[1].split(" ");
+	        		sellItem(Integer.parseInt(itemInfo[0]),Integer.parseInt(itemInfo[1]));
+	        	} else if (command.contains("QUIT")) {
+	        		
+	        	}
+	        	output.flush();
+        	} catch(IOException e) {};
+        }
+	}
+	
+	private synchronized boolean sellItem(int itemId,int quantity){
+		for(Item item : inventory){
+			if(item.getItemId().equals(itemId)){
+				try {
+					item.sell(quantity);
+					return true;
+				} catch (Exception e){
+					return false;
+				}
+			}
+		}
+		return false;
+	}
+	
+	
+}
